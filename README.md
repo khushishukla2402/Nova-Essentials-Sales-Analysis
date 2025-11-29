@@ -126,8 +126,10 @@ This Power BI project analyzes the sales performance of **Nova Essentials**, pro
 ## 📧 Contact
 
 For any feedback or collaboration opportunities:  
-**Author**: Sarthak Salvi  
-**Email**: [sarthaksalvi2107@gmail.com](mailto:sarthaksalvi2107@gmail.com)
+**Author**: Khushi Shukla  
+**Email**: [khushi.shukla0224@gmail.com
+](mailto:khushi.shukla0224@gmail.com
+)
 
 ---
 
